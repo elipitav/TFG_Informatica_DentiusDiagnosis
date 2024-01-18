@@ -1,0 +1,6 @@
+[
+    {
+        "patologias": ["CARIES", "ENDODONCIAS"],
+        "nets": ["Resnet34_ThreeChannel"]
+    }
+]

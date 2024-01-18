@@ -1,0 +1,66 @@
+[
+    {
+        "patologias": ["ORTODONCIA"],
+        "num_classes": 1,
+        "nets": ["Resnet18_ThreeChannel"],
+        "batch_size": 8,
+        "max_epochs": 100,
+        "max_epochs_without_improvement": 15 
+    },
+    {
+        "patologias": ["PROTESIS"],
+        "num_classes": 1,
+        "nets": ["Resnet18_ThreeChannel"],
+        "batch_size": 8,
+        "max_epochs": 100,
+        "max_epochs_without_improvement": 15
+    },
+    {
+        "patologias": ["IMPLANTES"],
+        "num_classes": 1,
+        "nets": ["Resnet18_ThreeChannel"],
+        "batch_size": 8,
+        "max_epochs": 100,
+        "max_epochs_without_improvement": 15  
+    },
+    {
+        "patologias": ["EMPASTES"],
+        "num_classes": 1,
+        "nets": ["Resnet18_ThreeChannel"],
+        "batch_size": 8,
+        "max_epochs": 100,
+        "max_epochs_without_improvement": 15
+    },
+    {
+        "patologias": ["ENDODONCIAS"],
+        "num_classes": 1,
+        "nets": ["Resnet18_ThreeChannel"],
+        "batch_size": 8,
+        "max_epochs": 100,
+        "max_epochs_without_improvement": 15  
+    },
+    {
+        "patologias": ["RESTOS"],
+        "num_classes": 1,
+        "nets": ["Resnet18_ThreeChannel"],
+        "batch_size": 8,
+        "max_epochs": 100,
+        "max_epochs_without_improvement": 15  
+    },
+    {
+        "patologias": ["CARIES"],
+        "num_classes": 1,
+        "nets": ["Resnet18_ThreeChannel"],
+        "batch_size": 8,
+        "max_epochs": 100,
+        "max_epochs_without_improvement": 15 
+    },
+    {
+        "patologias": ["AUSENCIAS"],
+        "num_classes": 1,
+        "nets": ["Resnet18_ThreeChannel"] ,
+        "batch_size": 8,
+        "max_epochs": 100,
+        "max_epochs_without_improvement": 15
+    }
+]
